@@ -1,0 +1,21 @@
+.each-course-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-right: 70px;
+  margin-bottom: 30px;
+}
+.course-icon {
+  width: 100px;
+  padding-right: 20px;
+}
+.course-name {
+  color: #1e293b;
+  font-size: 17px;
+  font-weight: bold;
+}
+li {
+  padding: 0;
+  margin: 0;
+}
